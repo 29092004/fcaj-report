@@ -1,0 +1,27 @@
+---
+title: "Week 11 Worklog"
+date: 2026-06-29
+weight: 11
+chapter: false
+pre: " <b> 1.11. </b> "
+---
+### Week 11 Objectives:
+* Complete the entire frontend user interface (UI/UX) for the Jobs-Matching-Platform project.
+* Refactor and optimize the Job Search functionality to ensure accurate, comprehensive, and responsive search results.
+* Compile and draft the final Internship Report, complete the weekly internship progress sheets, and prepare the summary work report for AWS Vietnam.
+
+### Tasks to be carried out this week:
+| Day | Task | Start Date | Completion Date | Reference Material |
+| --- | --- | --- | --- | --- |
+| 2 - 3 | - Complete UI/UX: Refine layout, typography, navigation, and responsiveness of the Next.js frontend, ensuring clean visual presentation. | 29/06/2026 | 30/06/2026 | Figma / UI Design |
+| 4 - 5 | - Optimize Job Search: Implement robust recursive search queries on DynamoDB, update frontend search logic, and clean up unnecessary salary components. | 01/07/2026 | 02/07/2026 | API Gateway / DynamoDB |
+| 6 | - Write Internship Report: Draft the final internship report documenting the project architecture, AWS services utilized, and lessons learned. | 03/07/2026 | 03/07/2026 | Internship Guidelines |
+| 7 - Sun | - Compile Progress & Summary: Collate weekly progress sheets, summarize contributions, and finalize the work evaluation report for the host organization. | 04/07/2026 | 05/07/2026 | Worklogs & Templates |
+
+### Week 11 Achievements:
+* Finalized all UI/UX components for the Jobs-Matching-Platform, creating a consistent, premium, and fully responsive frontend design.
+* Successfully refactored the Job Search API, moving from limited database scanning to a comprehensive, recursive search implementation.
+* Cleaned up the search results interface by removing redundant salary components for a cleaner layout.
+* Drafted the final professional Internship Report containing architectural details, AWS resource configuration, and personal development outcomes.
+* Compiled all weekly internship progress tracking sheets.
+* Completed and finalized the comprehensive summary work report for submission to AWS Vietnam.
