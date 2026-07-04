@@ -1,6 +1,6 @@
 baseURL = "https://29092004.github.io/fcaj-report/"
 relativeURLs = false
-canonifyURLs = false
+canonifyURLs = true
 buildFuture = true
 defaultContentLanguage = "en"
 
