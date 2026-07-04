@@ -98,8 +98,12 @@ You can view the list of registered users in the Cognito Console:
   * Must contain lowercase letters, uppercase letters, and numbers. Special characters are optional.
 * **Google Sign-In Support (Google Identity Provider):** OAuth2 integration allows users to log in directly with their Google Account.
 * **Redirect URLs (Callbacks):**
-  * Login Callback: `http://localhost:3000/auth/callback` (or production Amplify domain).
-  * Logout Callback: `http://localhost:3000/login`.
+  * Login Callback:
+    * `https://develop.d11bs7h108pe40.amplifyapp.com/auth/callback`
+    * `https://main.d11bs7h108pe40.amplifyapp.com/auth/callback`
+  * Logout Callback:
+    * `https://develop.d11bs7h108pe40.amplifyapp.com/login`
+    * `https://main.d11bs7h108pe40.amplifyapp.com/login`
 
 ![Cognito Managed Login](/images/5-Workshop/5.4-User-Interaction/cognito-managed-login.png)
 
@@ -187,9 +191,11 @@ You can view the list of registered users in the Cognito Console:
         - COGNITO
         - Google
       CallbackURLs:
-        - http://localhost:3000/auth/callback
+        - https://develop.d11bs7h108pe40.amplifyapp.com/auth/callback
+        - https://main.d11bs7h108pe40.amplifyapp.com/auth/callback
       LogoutURLs:
-        - http://localhost:3000/login
+        - https://develop.d11bs7h108pe40.amplifyapp.com/login
+        - https://main.d11bs7h108pe40.amplifyapp.com/login
 ```
 
 ---

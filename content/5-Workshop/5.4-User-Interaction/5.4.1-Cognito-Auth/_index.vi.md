@@ -98,8 +98,12 @@ Bạn có thể kiểm tra danh sách người dùng đã được tạo và kí
   * Yêu cầu chứa chữ thường (lowercase), chữ hoa (uppercase) và chữ số (numbers). Không bắt buộc ký tự đặc biệt.
 * **Hỗ trợ Đăng nhập Google (Google Identity Provider):** Liên kết OAuth2 để người dùng đăng nhập trực tiếp bằng Google Account.
 * **URL chuyển hướng (Callbacks):**
-  * Đăng nhập thành công: `http://localhost:3000/auth/callback` (hoặc domain Amplify sản xuất).
-  * Đăng xuất thành công: `http://localhost:3000/login`.
+  * Đăng nhập thành công:
+    * `https://develop.d11bs7h108pe40.amplifyapp.com/auth/callback`
+    * `https://main.d11bs7h108pe40.amplifyapp.com/auth/callback`
+  * Đăng xuất thành công:
+    * `https://develop.d11bs7h108pe40.amplifyapp.com/login`
+    * `https://main.d11bs7h108pe40.amplifyapp.com/login`
 
 ![Cognito Managed Login](/images/5-Workshop/5.4-User-Interaction/cognito-managed-login.png)
 
@@ -186,10 +190,12 @@ Bạn có thể kiểm tra danh sách người dùng đã được tạo và kí
       SupportedIdentityProviders:
         - COGNITO
         - Google
-      CallbackURLs:
-        - http://localhost:3000/auth/callback
-      LogoutURLs:
-        - http://localhost:3000/login
+      CallbackURLs:      
+        - https://develop.d11bs7h108pe40.amplifyapp.com/auth/callback
+        - https://main.d11bs7h108pe40.amplifyapp.com/auth/callback
+      LogoutURLs:   
+        - https://develop.d11bs7h108pe40.amplifyapp.com/login
+        - https://main.d11bs7h108pe40.amplifyapp.com/login
 ```
 
 ---
