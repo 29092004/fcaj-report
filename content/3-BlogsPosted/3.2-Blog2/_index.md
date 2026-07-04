@@ -47,15 +47,11 @@ Setting up the power takes only a few steps:
 1. Open Kiro and choose the **Powers** icon in the sidebar.
 2. In the **AVAILABLE** panel, find **AWS DevOps Agent** and choose **Install**.
 
-![Kiro Powers Panel](/images/3-BlogsPosted/3.2-Blog2/kiro-powers-panel.png)
-*Figure 2: Kiro powers panel showing the Kiro power for AWS DevOps Agent.*
 
 3. Update your `mcp.json` file configuration:
    * `DEVOPS_AGENT_TOKEN=<your-token>`
    * `DEVOPS_AGENT_REGION=<your-agent-space-region>`
 
-![MCP Servers Panel](/images/3-BlogsPosted/3.2-Blog2/mcp-servers-panel.png)
-*Figure 3: MCP Servers panel showing the AWS DevOps Agent MCP and connected tools.*
 
 ## Conclusion
 
