@@ -38,8 +38,7 @@ The platform is built on AWS Serverless architecture principles, divided into in
 - *AWS IAM, Amazon CloudWatch, AWS Budgets*: Enforces core authorization management, monitors system health, and strictly controls operational budgets.
 - *AWS Systems Manager (SSM) Parameter Store*: Securely stores and manages API keys and sensitive configurations.
 
-*Component Design*
-![Component Design Architecture](/images/2-Proposal/edge_architecture.jpeg)
+
 
 - *Jobs Ingestion*: Collects scheduled data from third-party platforms, processes it asynchronously via SQS, performs data standardization using Lambda, and stores it in DynamoDB with a configured Time-To-Live (TTL) mechanism.
 - *User Interaction*: The front-end interface communicates via API Gateway, enabling queries on DynamoDB to filter, search for jobs, and save them to an independent wishlist table.
