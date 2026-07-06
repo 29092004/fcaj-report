@@ -30,7 +30,7 @@ Typically, a worklog is carried out over **12 weeks** (throughout the internship
 
 **Week 10:** [Dynamic database rendering and job detail API integration](1.10-week10/)
 
-**Week 11:** [Getting familiar with AWS and basic AWS services](1.11-week11/)
+**Week 11:** [Compile Progress & Summary](1.11-week11/)
 
-**Week 12:** [Getting familiar with AWS and basic AWS services](1.12-week12/)
+**Week 12:** [Not updated yet](1.12-week12/)
 

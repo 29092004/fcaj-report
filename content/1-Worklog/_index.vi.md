@@ -30,7 +30,7 @@ Thông thường, một worklog được thực hiện trong khoảng **12 tuầ
 
 **Tuần 10:** [Hiển thị dữ liệu động từ DynamoDB và API chi tiết công việc](1.10-week10/)
 
-**Tuần 11:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS](1.11-week11/)
+**Tuần 11:** [Viết báo cáo tổng hợp cho bên thực tập ](1.11-week11/)
 
-**Tuần 12:** [Làm quen với AWS và các dịch vụ cơ bản trong AWS](1.12-week12/)
+**Tuần 12:** [Chưa cập nhật](1.12-week12/)
 
