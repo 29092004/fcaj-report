@@ -12,13 +12,9 @@ pre: " <b> 1.6. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 3 | - API Gateway Intro: Study request routing from Frontend through API Gateway to Lambda | 26/05/2026 | 26/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Lambda API Deploy: Write a Lambda function to query DynamoDB and return standardized JSON | 27/05/2026 | 27/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Setup API Gateway: Create REST API on API Gateway, configure GET/POST methods, and enable CORS | 28/05/2026 | 28/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - Postman Testing: Use Postman to trigger HTTP requests and troubleshoot CORS/Auth errors | 29/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 7 | - Call API from Frontend: Build a simple HTML/JS frontend to retrieve data via API Gateway | 30/05/2026 | 30/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| Sun | - System Integration: Run end-to-end flow and render database query results on the screen | 31/05/2026 | 31/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - Cleanup Resources: Review the integration flow and delete temporary AWS resources | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2-3-4 | - API Gateway & Lambda Setup: Learn concepts, deploy Lambda API, and configure REST API with CORS | 25/05/2026 | 27/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5-6 | - API Testing & Frontend Integration: Test endpoints using Postman and integrate API calls on Frontend | 28/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7-Sun | - System Integration & Cleanup: Test the full Front-to-Back flow and delete temporary resources | 30/05/2026 | 31/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 6 Achievements:
 * Gained a clear understanding of API routing and gateway proxies in AWS.

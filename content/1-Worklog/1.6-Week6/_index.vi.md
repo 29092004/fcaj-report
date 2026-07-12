@@ -12,13 +12,9 @@ pre: " <b> 1.6. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 3 | - Tổng quan API Gateway: Học cơ chế định tuyến từ Front-end qua API Gateway tới Lambda | 26/05/2026 | 26/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Triển khai Lambda API: Viết Lambda function truy vấn dữ liệu từ DynamoDB và trả về dạng JSON | 27/05/2026 | 27/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Thiết lập API Gateway: Khởi tạo REST API trên API Gateway, cấu hình GET/POST và bật CORS | 28/05/2026 | 28/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - Kiểm tra với Postman: Gửi các request HTTP qua Postman, kiểm tra lỗi CORS và phân quyền | 29/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 7 | - Front-end gọi API: Xây dựng Front-end đơn giản để gọi API Gateway nhận dữ liệu | 30/05/2026 | 30/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| CN | - Kiểm tra hệ thống: Chạy tích hợp toàn bộ luồng Front-to-Back, render dữ liệu ra màn hình | 31/05/2026 | 31/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - Dọn dẹp tài nguyên: Ôn tập quy trình tích hợp và xóa các tài nguyên AWS đã tạo | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2-3-4 | - API Gateway & Lambda Setup: Tìm hiểu tổng quan, triển khai Lambda API và thiết lập REST API trên API Gateway | 25/05/2026 | 27/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5-6 | - API Testing & Tích hợp Frontend: Kiểm thử API qua Postman và gọi API Gateway từ Frontend | 28/05/2026 | 29/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7-CN | - Kiểm thử hệ thống & Dọn dẹp: Chạy thử nghiệm tích hợp Front-to-Back toàn diện và xóa tài nguyên AWS | 30/05/2026 | 31/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 6:
 * Hiểu rõ cơ chế định tuyến và chuyển tiếp API của AWS API Gateway.

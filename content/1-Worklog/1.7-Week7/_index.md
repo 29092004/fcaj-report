@@ -15,7 +15,7 @@ pre: " <b> 1.7. </b> "
 | 2 | - Team Meeting & Finalization: Discuss feasibility, select final project topic, and assign roles | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 - 4 | - Project Research: Survey practical use cases, analyze flow and required AWS services | 02/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 - 6 | - Learn AWS SAM: Learn SAM theory, install SAM CLI, and deploy a test application | 04/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| Sun - 2 | - Design & Submission: Draw architecture diagrams, configure SAM template, and submit proposal | 07/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7 - Sun | - Design & Submission: Draw architecture diagrams, configure SAM template, and submit proposal | 06/06/2026 | 07/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 7 Achievements:
 * Installed and configured SAM CLI locally for development.

@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Bài thu hoạch "FCAJ Tech Sharing & Demo Day 2"
+# Bài thu hoạch "AWS Community Day - 06/06/2026"
 
 ### Mục Đích Của Sự Kiện
 

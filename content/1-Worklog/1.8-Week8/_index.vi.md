@@ -12,10 +12,10 @@ pre: " <b> 1.8. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 3 - 4 | - Kiến trúc tích hợp: Nghiên cứu cơ chế giao tiếp Frontend (S3) - API Gateway - Lambda | 09/06/2026 | 10/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 - 6 | - Cấu hình & Gọi API: Thiết lập biến môi trường và viết mã nguồn fetch gọi API Gateway từ Frontend | 11/06/2026 | 12/06/2026 | <https://cloudjourney.awsstudygroup.com/>|
-| 7 - CN | - Triển khai lên S3: Đóng gói code Frontend, cấu hình Static Website Hosting trên S3 và CloudFront | 13/06/2026 | 14/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - Kiểm thử tích hợp: Deploy toàn bộ hệ thống lên Cloud và chạy thử nghiệm luồng thực tế | 15/06/2026 | 15/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 - 3 | - Kiến trúc tích hợp: Nghiên cứu cơ chế giao tiếp Frontend (S3) - API Gateway - Lambda | 08/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 - 5 | - Cấu hình & Gọi API: Thiết lập biến môi trường và viết mã nguồn fetch gọi API Gateway từ Frontend | 10/06/2026 | 11/06/2026 | <https://cloudjourney.awsstudygroup.com/>|
+| 6 - CN | - Triển khai lên S3: Đóng gói code Frontend, cấu hình Static Website Hosting trên S3 và CloudFront | 12/06/2026 | 13/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| CN | - Kiểm thử tích hợp: Deploy toàn bộ hệ thống lên Cloud và chạy thử nghiệm luồng thực tế | 14/06/2026 | 14/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 8:
 * Hiểu rõ mô hình phân tách độc lập (decoupled) giữa Frontend và Backend Serverless.

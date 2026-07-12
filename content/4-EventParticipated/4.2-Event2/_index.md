@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.2. </b> "
 ---
 
-# Summary Report: "FCAJ Tech Sharing & Demo Day 2"
+# Summary Report: "AWS Community Day - 06/06/2026"
 
 ### Event Objectives
 

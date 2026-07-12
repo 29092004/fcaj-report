@@ -12,13 +12,11 @@ pre: " <b> 1.5. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 3 | - Intro to Serverless: Learn about Serverless concepts and roles of Lambda, S3, DynamoDB | 19/05/2026 | 19/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Image Optimization: Create S3 Bucket, write Lambda code to auto-compress/resize images | 20/05/2026 | 20/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - Setup DynamoDB: Create a DynamoDB table and define a Partition Key | 21/05/2026 | 21/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - Log data to DynamoDB: Configure Lambda function to write image metadata into DynamoDB | 22/05/2026 | 22/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 7 | - IAM Role for Lambda: Grant Least Privilege S3/DynamoDB access permissions to Lambda | 23/05/2026 | 23/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| Sun | - Serverless Lab: Practice testing the full image pipeline and clean up AWS resources | 24/05/2026 | 24/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - Serverless Review: Review Event-driven Architecture concepts on AWS | 25/05/2026 | 25/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2-3 | - Intro to Serverless: Learn about Serverless concepts and roles of Lambda, S3, DynamoDB | 18/05/2026 | 19/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4-5 | - Setup DynamoDB: Create a DynamoDB table and define a Partition Key | 20/05/2026 | 21/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 | - IAM Role for Lambda: Grant Least Privilege S3/DynamoDB access permissions to Lambda | 22/05/2026 | 22/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7-Sun | - Serverless Lab: Practice testing the full image pipeline and clean up AWS resources | 23/05/2026 | 24/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+
 
 ### Week 5 Achievements:
 * Gained a solid understanding of Serverless and AWS Lambda trigger mechanisms.

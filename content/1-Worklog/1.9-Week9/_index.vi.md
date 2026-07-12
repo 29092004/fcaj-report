@@ -12,9 +12,9 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 3 - 4 | - Thiết kế UI bằng AI: Dùng Generative AI (v0.dev, Claude) để tạo nhanh cấu trúc layout và mockup | 16/06/2026 | 17/06/2026 | - |
-| 5 - 6 | - Tối ưu mã nguồn UI: Làm sạch code sinh ra từ AI, chia nhỏ thành các React/HTML Component | 18/06/2026 | 19/06/2026 | - |
-| 7 - CN | - Tích hợp Codebase: Đưa Component vào mã nguồn chính, cấu hình Router và Responsive | 20/06/2026 | 21/06/2026 | - |
+| 2 - 3 | - Thiết kế UI bằng AI: Dùng Generative AI (v0.dev, Claude) để tạo nhanh cấu trúc layout và mockup | 15/06/2026 | 16/06/2026 | - |
+| 4 - 5 | - Tối ưu mã nguồn UI: Làm sạch code sinh ra từ AI, chia nhỏ thành các React/HTML Component | 17/06/2026 | 18/06/2026 | - |
+| 6 - CN | - Tích hợp Codebase: Đưa Component vào mã nguồn chính, cấu hình Router và Responsive | 19/06/2026 | 21/06/2026 | - |
 
 ### Kết quả đạt được tuần 9:
 * Tạo được bản mẫu thiết kế giao diện (Mockup UI) trực quan, hiện đại bằng AI.

@@ -12,8 +12,8 @@ pre: " <b> 1.1. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - AWS Overview: Tìm hiểu AWS và các nhóm dịch vụ (Compute, Storage, Networking, Database) | 20/04/2026 | 20/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - AWS Account: Tạo tài khoản AWS Free Tier | 21/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - AWS Account: Tạo tài khoản AWS Free Tier  | 20/04/2026 | 20/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - AWS Overview: Tìm hiểu AWS và các nhóm dịch vụ (Compute, Storage, Networking, Database) | 21/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - AWS Console: Làm quen giao diện AWS Console | 22/04/2026 | 22/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 | - AWS CLI: Cài đặt và cấu hình AWS CLI | 23/04/2026 | 23/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6 | - AWS CLI Practice: Dùng CLI kiểm tra account, region, EC2 | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |

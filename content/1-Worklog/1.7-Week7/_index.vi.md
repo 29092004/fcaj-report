@@ -15,7 +15,7 @@ pre: " <b> 1.7. </b> "
 | 2 | - Họp nhóm & Chốt đề tài: Thảo luận, phản biện tính khả thi và chốt đề tài, phân công việc | 01/06/2026 | 01/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 - 4 | - Nghiên cứu đề tài: Khảo sát các bài toán thực tế, phân tích luồng và dịch vụ AWS cần dùng | 02/06/2026 | 03/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 - 6 | - Tìm hiểu AWS SAM: Học lý thuyết SAM, cài đặt SAM CLI và deploy thử ứng dụng mẫu | 04/06/2026 | 05/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| CN - 2 | - Thiết kế & Nộp đề xuất: Vẽ sơ đồ kiến trúc hệ thống, cấu hình SAM template và nộp đề xuất | 07/06/2026 | 08/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 7 - CN | - Thiết kế & Nộp đề xuất: Vẽ sơ đồ kiến trúc hệ thống, cấu hình SAM template và nộp đề xuất | 06/06/2026 | 07/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 7:
 * Cài đặt và cấu hình thành công SAM CLI trên máy tính cá nhân.

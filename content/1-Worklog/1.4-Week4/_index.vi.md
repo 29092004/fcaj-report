@@ -6,25 +6,23 @@ chapter: false
 pre: " <b> 1.4. </b> "
 ---
 ### Mục tiêu tuần 4:
-* Nắm vững kiến thức IAM Role, phân biệt với IAM User/Access Key.
-* Thực hành gán IAM Role cho EC2 instance và thực hiện truy cập an toàn bằng CLI tuân thủ Least Privilege.
+* Tìm hiểu kiến trúc mạng AWS VPC, cách chia Subnet, Route Table và cấu hình định tuyến Internet Gateway.
+* So sánh cơ chế bảo mật (Security Group & NACL) và tìm hiểu mô hình kết nối Site-to-Site VPN.
 
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 3 | - IAM Role Overview: Học lý thuyết IAM Role, Assume Role và phân biệt với IAM User | 12/05/2026 | 12/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 | - Access Key vs IAM Role: So sánh ưu nhược điểm bảo mật của hai phương thức | 13/05/2026 | 13/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 5 | - IAM Role trên EC2: Tạo và gán IAM Role cho EC2 để cấp quyền truy cập S3 | 14/05/2026 | 14/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 | - AWS CLI với IAM Role: Sử dụng AWS CLI kiểm tra các lệnh S3 qua IAM Role của EC2 | 15/05/2026 | 15/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 7 | - Best Practice: Nghiên cứu nguyên tắc Least Privilege trong thiết kế IAM Role | 16/05/2026 | 16/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| CN | - IAM Role Lab: Thực hành tạo nhiều IAM Role và kiểm tra phân quyền | 17/05/2026 | 17/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 2 | - Tổng hợp IAM Role: Ôn tập lại kiến thức IAM Role và quy trình tích hợp EC2 | 18/05/2026 | 18/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - VPC Overview: Tìm hiểu cấu trúc VPC, CIDR Block, IPv4/IPv6 | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - Subnet: Thực hành phân chia Public Subnet và Private Subnet | 12/05/2026 | 12/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 | - Route Table: Cấu hình bảng định tuyến và liên kết Subnet | 13/05/2026 | 13/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 5 | - Internet Gateway: Tạo và gắn Internet Gateway kiểm tra kết nối internet | 14/05/2026 | 14/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6-7-CN | - Site-to-Site VPN: Tìm hiểu lý thuyết kết nối VPN Hybrid | 15/05/2026 | 17/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 4:
-* Hiểu rõ khái niệm IAM Role, Assume Role và sự khác biệt với IAM User thông thường.
-* Nhận thức rõ tại sao nên sử dụng IAM Role thay thế cho Access Key truyền thống.
-* Cấu hình thành công EC2 instance truy cập S3 một cách an toàn thông qua IAM Role.
-* Kiểm tra và chạy thành công lệnh AWS CLI mà không cần cấu hình Access Key trực tiếp.
-* Áp dụng nguyên tắc Least Privilege (quyền tối thiểu) vào thiết kế hệ thống phân quyền AWS.
-* Thành thạo quy trình tạo, chỉnh sửa và gán IAM Role cho các tài nguyên AWS.
-* Nắm vững các Best Practice về bảo mật tài khoản AWS.
+* Hiểu rõ kiến trúc mạng VPC và cách quy hoạch dải CIDR Block.
+* Phân chia mạng con (Public/Private Subnets) đáp ứng yêu cầu bảo mật dự án.
+* Thiết lập định tuyến thành công qua Route Table và Internet Gateway.
+* Cấp kết nối mạng Internet thành công cho Public Subnet.
+* Phân biệt rõ tính năng Security Group (stateful) và NACL (stateless) để áp dụng cấu hình.
+* Hiểu mô hình mạng kết nối Hybrid thông qua Customer Gateway và Site-to-Site VPN.
+* Nắm chắc quy trình vận hành và kiểm tra kết nối trong môi trường mạng VPC.

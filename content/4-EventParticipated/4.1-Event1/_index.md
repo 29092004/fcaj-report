@@ -1,12 +1,12 @@
 ---
 title: "Event 1"
-date: 2026-06-30
+date: 2026-05-23
 weight: 1
 chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Summary Report: "FCAJ Tech Sharing & Demo Day Event"
+# Summary Report: "FCAJ Tech Sharing & Demo Day - 23/05/2026"
 
 ### Event Objectives
 

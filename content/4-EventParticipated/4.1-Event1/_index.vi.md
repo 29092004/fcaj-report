@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.1. </b> "
 ---
 
-# Bài thu hoạch "FCAJ Tech Sharing & Demo Day Event"
+# Bài thu hoạch "FCAJ Tech Sharing & Demo Day - 23/05/2026"
 
 ### Mục Đích Của Sự Kiện
 

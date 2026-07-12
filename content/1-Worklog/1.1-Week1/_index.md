@@ -12,8 +12,8 @@ pre: " <b> 1.1. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - AWS Overview: Learn about AWS and core service groups (Compute, Storage, Networking, Database) | 20/04/2026 | 20/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 3 | - AWS Account: Create AWS Free Tier account | 21/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - AWS Account: Create AWS Free Tier account| 20/04/2026 | 20/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 3 | - AWS Overview: Learn about AWS and core service groups (Compute, Storage, Networking, Database)  | 21/04/2026 | 21/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - AWS Console: Familiarize with AWS Console interface | 22/04/2026 | 22/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 | - AWS CLI: Install and configure AWS CLI | 23/04/2026 | 23/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6 | - AWS CLI Practice: Use CLI to check account, region, EC2 status | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |

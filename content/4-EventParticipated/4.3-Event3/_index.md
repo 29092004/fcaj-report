@@ -6,7 +6,7 @@ chapter: false
 pre: " <b> 4.3. </b> "
 ---
 
-# Summary Report: "FCAJ Tech Sharing & Demo Day 3"
+# Summary Report: "FCAJ Tech Sharing & Demo Day - 27/06/2026"
 
 ### Event Objectives
 

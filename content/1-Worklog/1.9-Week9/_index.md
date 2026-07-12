@@ -12,9 +12,9 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 3 - 4 | - AI UI Design: Use Generative AI (v0.dev, Claude) to build layouts and UI mockups | 16/06/2026 | 17/06/2026 | - |
-| 5 - 6 | - Optimize UI Code: Refactor AI-generated code and divide it into reusable components | 18/06/2026 | 19/06/2026 | - |
-| 7 - Sun | - Codebase Integration: Integrate components into the main codebase, configure routes and responsiveness | 20/06/2026 | 21/06/2026 | - |
+| 2 - 3 | - AI UI Design: Use Generative AI (v0.dev, Claude) to build layouts and UI mockups | 15/06/2026 | 16/06/2026 | - |
+| 4 - 5 | - Optimize UI Code: Refactor AI-generated code and divide it into reusable components | 17/06/2026 | 18/06/2026 | - |
+| 6 - Sun | - Codebase Integration: Integrate components into the main codebase, configure routes and responsiveness | 19/06/2026 | 21/06/2026 | - |
 
 ### Week 9 Achievements:
 * Created clean and modern UI layout mockups using Generative AI tools.
