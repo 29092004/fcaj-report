@@ -1,14 +1,16 @@
 ---
-title: "GitHub Repository"
+title: "Project Links"
 weight: 8
 chapter: false
 pre: " <b> 8. </b> "
 ---
 
-<script>
-window.location.href = "https://github.com/29092004/fcaj-report";
-</script>
+Below are the links to the source code and the deployed version of the project:
 
-### Redirecting to GitHub Repository...
+### 1. GitHub Repository (Source Code)
+* **Link:** [https://github.com/Tri107/Jobs-Matching-Platform](https://github.com/Tri107/Jobs-Matching-Platform)
+* **Description:** This repository contains the complete source code of the Jobs Matching Platform
 
-If you are not redirected automatically, please click [here](https://github.com/29092004/fcaj-report).
+### 2. Deployed Website (Live Application)
+* **Link:** [https://develop.d11bs7h108pe40.amplifyapp.com/](https://develop.d11bs7h108pe40.amplifyapp.com/)
+* **Description:** The live application deployed on AWS Amplify, connected to the backend DynamoDB via API Gateway and Lambda functions.
