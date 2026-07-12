@@ -36,3 +36,4 @@ chapter: false
 5.  [Workshop](5-Workshop/)
 6.  [Đánh giá bản thân](6-Self-evaluation/)
 7.  [Chia sẻ và đóng góp ý kiến](7-Feedback/)
+8.  [Liên kết dự án](8-GitHubRepository/)
