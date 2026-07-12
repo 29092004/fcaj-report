@@ -28,17 +28,6 @@ title = "Internship Report"
 weight = 1
 languageName = "English"
 
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fab fa-github'></i> GitHub Repository"
-identifier = "GitHub Repo"
-url = "https://github.com/29092004/fcaj-report"
-weight = 10
-
-[[Languages.en.menu.shortcuts]]
-name = "<i class='fas fa-globe'></i> Deployed Site"
-identifier = "Deployed Site"
-url = "https://29092004.github.io/fcaj-report/"
-weight = 11
 
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
@@ -56,18 +45,6 @@ weight = 30
 title = "Báo cáo thực tập"
 weight = 2
 languageName = "Tiếng Việt"
-
-[[Languages.vi.menu.shortcuts]]
-name = "<i class='fab fa-github'></i> GitHub Repository"
-identifier = "GitHub Repo"
-url = "https://github.com/29092004/fcaj-report"
-weight = 10
-
-[[Languages.vi.menu.shortcuts]]
-name = "<i class='fas fa-globe'></i> Trang web đã Deploy"
-identifier = "Deployed Site"
-url = "https://29092004.github.io/fcaj-report/"
-weight = 11
 
 [[Languages.vi.menu.shortcuts]]
 name = "<i class='fab fa-aws'></i> AWS Study Group - Blog"
