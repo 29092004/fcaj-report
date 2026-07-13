@@ -13,9 +13,9 @@ pre: " <b> 1.7. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - Research topics: explore practical problems and analyze necessary AWS services. | 01/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 - 3 | - Research topics: survey projects, system workflows, and analyze necessary AWS services. | 01/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 - 5 | - Design & Submit proposal: draft the initial system architecture diagram and submit the project proposal. | 03/06/2026 | 04/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 - 7 | - Team meeting & Finalize topic: discuss feasibility, chosing the official project topic, and assign roles. | 05/06/2026 | 06/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 - 7 | - Team meeting & Finalize topic: discuss and finalize the official project topic and assign roles. | 05/06/2026 | 06/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | Sun | - Learn AWS SAM: Learn about AWS SAM concepts and download/configure SAM CLI on the local machine. | 07/06/2026 | 07/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 7 Achievements:

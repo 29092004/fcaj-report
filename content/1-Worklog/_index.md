@@ -14,9 +14,9 @@ Typically, a worklog is carried out over **12 weeks** (throughout the internship
 
 **Week 2:** [AWS IAM user management and security policies](1.2-week2/)
 
-**Week 3:** [AWS VPC network architecture and routing configuration](1.3-week3/)
+**Week 3:** [AWS IAM role policies and EC2 S3 access permissions](1.3-week3/)
 
-**Week 4:** [AWS IAM role policies and EC2 S3 access permissions](1.4-week4/)
+**Week 4:** [AWS VPC network architecture and routing configuration](1.4-week4/)
 
 **Week 5:** [Serverless architecture using S3, Lambda and DynamoDB](1.5-week5/)
 
@@ -24,7 +24,7 @@ Typically, a worklog is carried out over **12 weeks** (throughout the internship
 
 **Week 7:** [AWS SAM development environment setup and project proposal](1.7-week7/)
 
-**Week 8:** [Connecting Frontend with Backend API Gateway](1.8-week8/)
+**Week 8:** [Testing template deployment to AWS Lambda and DynamoDB queries](1.8-week8/)
 
 **Week 9:** [Frontend UI design and GenAI-assisted component mockup](1.9-week9/)
 
@@ -32,5 +32,5 @@ Typically, a worklog is carried out over **12 weeks** (throughout the internship
 
 **Week 11:** [Compile Progress & Summary](1.11-week11/)
 
-**Week 12:** [Not updated yet](1.12-week12/)
+**Week 12:** [Write and finalize the graduation internship report](1.12-week12/)
 

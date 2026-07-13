@@ -23,4 +23,3 @@ pre: " <b> 1.6. </b> "
 * Developed testing proficiency in Postman, debugging CORS and integration errors.
 * Successfully bound static Frontend pages with Backend API Gateway endpoints.
 * Completed a working, data-driven Full-stack Serverless application.
-* Mastered procedures for deleting temporary cloud resources to manage AWS budgets.

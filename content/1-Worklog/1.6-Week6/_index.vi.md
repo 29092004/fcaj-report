@@ -23,4 +23,3 @@ pre: " <b> 1.6. </b> "
 * Sử dụng thành thạo Postman để debug, test API và xử lý triệt để các lỗi CORS.
 * Kết nối thành công mã nguồn Frontend tĩnh với endpoint của API Gateway.
 * Hoàn thiện một ứng dụng Full-stack Serverless hoàn chỉnh có tương tác database.
-* Nắm vững cách giải phóng tài nguyên AWS để tối ưu ngân sách.

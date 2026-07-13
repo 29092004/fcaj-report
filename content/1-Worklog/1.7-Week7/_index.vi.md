@@ -13,9 +13,9 @@ pre: " <b> 1.7. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - Nghiên cứu đề tài: Khảo sát các bài toán thực tế, phân tích các dịch vụ AWS cần sử dụng. | 01/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 4 - 5 | - Thiết kế & Nộp đề xuất: Phác thảo sơ đồ kiến trúc hệ thống sơ bộ và gửi bản đề xuất đề tài dự án. | 03/06/2026 | 04/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 - 7 | - Họp nhóm & Chốt đề tài: Thảo luận phản biện, thống nhất đề tài dự án chính thức và phân công nhiệm vụ. | 05/06/2026 | 06/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 - 3 | - Nghiên cứu đề tài: Khảo sát các đề tài, các luồng xử lý hệ thống và  phân tích các dịch vụ AWS cần sử dụng. | 01/06/2026 | 02/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 - 5 | - Thiết kế & Nộp đề xuất: Phác thảo sơ đồ kiến trúc hệ thống sơ bộ và gửi bản đề xuất đề tài dự án. | 03/06/2026| 04/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 - 7 | - Họp nhóm & Chốt đề tài: Thảo luận và thống nhất đề tài dự án chính thức và phân công nhiệm vụ. | 05/06/2026 | 06/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | CN | - Tìm hiểu AWS SAM: Học lý thuyết về AWS SAM và tiến hành tải, cấu hình SAM CLI về máy tính cá nhân. | 07/06/2026 | 07/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 7:
