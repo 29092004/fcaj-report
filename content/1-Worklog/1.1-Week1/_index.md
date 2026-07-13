@@ -26,4 +26,3 @@ pre: " <b> 1.1. </b> "
 * Installed and configured AWS CLI on local machine.
 * Verified account, region list, and EC2 status via CLI commands.
 * Created a Key Pair for EC2 management.
-* Completed review and mastered the basic operations of Console and CLI.

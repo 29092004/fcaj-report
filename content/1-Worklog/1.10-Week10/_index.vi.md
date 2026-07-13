@@ -21,5 +21,3 @@ pre: " <b> 1.10. </b> "
 * Hoàn thiện thiết kế và luồng xử lý nhận diện ID của trang chi tiết Job.
 * Viết và triển khai thành công Lambda API phục vụ truy vấn thông tin chi tiết của một Job cụ thể.
 * Deploy thành công API chi tiết Job lên AWS.
-* Hoàn thành kiểm thử toàn diện tích hợp luồng xử lý từ Frontend đến Database trên Cloud.
-* Đảm bảo ứng dụng chạy mượt mà, không phát sinh lỗi liên quan đến dữ liệu động.

@@ -21,4 +21,3 @@ pre: " <b> 1.2. </b> "
 * Phân biệt rõ ràng giữa IAM Users, Groups, Roles và Policies.
 * Có khả năng đọc hiểu và xây dựng các chính sách phân quyền IAM cơ bản dưới dạng cấu trúc JSON.
 * Hiểu cách bảo vệ tài khoản AWS bằng MFA và quản lý Access Key an toàn.
-* Hoàn thành ôn tập và nắm vững quy trình quản lý định danh và truy cập tài nguyên AWS bảo mật.

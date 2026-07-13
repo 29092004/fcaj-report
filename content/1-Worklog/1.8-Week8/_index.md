@@ -18,7 +18,7 @@ pre: " <b> 1.8. </b> "
 | 6 - 7 | - Write the Lambda function logic to query Job data from DynamoDB and verify the returned results. | 12/06/2026 | 13/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 8 Achievements:
-* Mastered code packaging and deployment to AWS Lambda using templates.
+* Understood code packaging and deployment to AWS Lambda using templates.
 * Successfully deployed and tested the Lambda function template on the AWS environment.
 * Built a functional Lambda function to fetch job data from a DynamoDB table.
 * Successfully verified the Lambda function's execution and correct response output.

@@ -19,9 +19,5 @@ pre: " <b> 1.5. </b> "
 
 ### Week 5 Achievements:
 * Gained a solid understanding of Serverless and AWS Lambda trigger mechanisms.
-* Developed a Lambda function to automatically resize/compress images uploaded to S3.
 * Initialized a DynamoDB table and structured a NoSQL database schema.
-* Integrated AWS SDK into Lambda to write image metadata records into DynamoDB.
 * Implemented secure IAM policies with Least Privilege access for the Lambda function.
-* Successfully executed the full Event-driven flow (S3 upload -> Lambda resize -> DynamoDB log).
-* Learned best practices for cleaning up unused resources to optimize cloud costs.

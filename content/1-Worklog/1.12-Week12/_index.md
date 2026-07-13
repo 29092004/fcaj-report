@@ -19,7 +19,7 @@ pre: " <b> 1.12. </b> "
 | Sun | - Complete the internship report | 12/07/2026 | 12/07/2026 |  |
 
 ### Week 12 Achievements:
-* Completed 100% of the graduation internship report content with all required sections.
+* Completed 100% of the graduation internship report details.
 * Standardized formatting for margins, typography, lists, automatic tables of contents, figures, and tables.
 * Cleaned up grammar, spelling mistakes, and aligned technical terms across the report.
 * Completed the internship report.

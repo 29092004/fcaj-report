@@ -19,7 +19,7 @@ pre: " <b> 1.12. </b> "
 | CN | - Hoàn thiện báo cáo thực tập | 12/07/2026 | 12/07/2026 |  |
 
 ### Kết quả đạt được tuần 12:
-* Hoàn thành 100% nội dung báo cáo thực tập tốt nghiệp chi tiết và chất lượng.
+* Hoàn thành 100% nội dung báo cáo thực tập tốt nghiệp chi tiết
 * Định dạng báo cáo chuẩn chỉnh theo đúng quy định về bố cục, mục lục và danh mục tài liệu tham khảo.
 * Loại bỏ toàn bộ lỗi chính tả, câu từ diễn đạt và thống nhất các thuật ngữ chuyên ngành.
 * Hoàn thành báo cáo thực tập.

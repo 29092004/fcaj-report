@@ -18,7 +18,7 @@ pre: " <b> 1.8. </b> "
 | 6 - 7 | - Viết hàm Lambda để thực hiện lấy dữ liệu Job từ DynamoDB và chạy kiểm thử kết quả trả về. | 12/06/2026 | 13/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 8:
-* Nắm vững cách đóng gói và deploy mã nguồn lên AWS Lambda thông qua template.
+* Hiểu cách đóng gói và deploy mã nguồn lên AWS Lambda thông qua template.
 * Deploy thử nghiệm thành công template Lambda function trên môi trường AWS.
 * Viết thành công hàm Lambda function thực hiện truy xuất dữ liệu công việc (Job) từ bảng DynamoDB.
 * Kiểm thử thành công hàm Lambda hoạt động ổn định và trả về đúng dữ liệu.

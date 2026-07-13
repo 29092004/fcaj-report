@@ -21,4 +21,3 @@ pre: " <b> 1.2. </b> "
 * Mastered the differences between IAM Users, Groups, Roles, and Policies.
 * Acquired the ability to parse and design basic IAM policies using JSON structure.
 * Understood how to secure AWS accounts using MFA and Access Key management best practices.
-* Completed reviews and fully grasped standard AWS identity and access security workflows.

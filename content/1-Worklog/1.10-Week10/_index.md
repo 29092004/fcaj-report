@@ -21,5 +21,3 @@ pre: " <b> 1.10. </b> "
 * Finalized the layout design and route parameter parsing logic for the Job Detail page.
 * Built and deployed a stable Lambda API function specifically for querying single Job records by ID.
 * Successfully updated and deployed the full API suite to AWS.
-* Completed comprehensive end-to-end flow testing from Frontend through Backend to Database.
-* Ensured the live Cloud application performs efficiently with zero dynamic data errors.

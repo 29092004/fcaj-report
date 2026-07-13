@@ -12,17 +12,15 @@ pre: " <b> 1.4. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 | - VPC Overview: Tìm hiểu cấu trúc VPC, CIDR Block, IPv4/IPv6 | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - VPC Overview: Tìm hiểu cấu trúc VPC,IPv4/IPv6 | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | - Subnet: Thực hành phân chia Public Subnet và Private Subnet | 12/05/2026 | 12/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - Route Table: Cấu hình bảng định tuyến và liên kết Subnet | 13/05/2026 | 13/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 | - Internet Gateway: Tạo và gắn Internet Gateway kiểm tra kết nối internet | 14/05/2026 | 14/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6-7-CN | - Site-to-Site VPN: Tìm hiểu lý thuyết kết nối VPN Hybrid | 15/05/2026 | 17/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Kết quả đạt được tuần 4:
-* Hiểu rõ kiến trúc mạng VPC và cách quy hoạch dải CIDR Block.
+* Hiểu rõ kiến trúc mạng VPC .
 * Phân chia mạng con (Public/Private Subnets) đáp ứng yêu cầu bảo mật dự án.
 * Thiết lập định tuyến thành công qua Route Table và Internet Gateway.
 * Cấp kết nối mạng Internet thành công cho Public Subnet.
-* Phân biệt rõ tính năng Security Group (stateful) và NACL (stateless) để áp dụng cấu hình.
 * Hiểu mô hình mạng kết nối Hybrid thông qua Customer Gateway và Site-to-Site VPN.
-* Nắm chắc quy trình vận hành và kiểm tra kết nối trong môi trường mạng VPC.

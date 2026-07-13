@@ -12,14 +12,12 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - AI UI Design: Use Generative AI (Stitch) to build layouts and UI mockups | 15/06/2026 | 16/06/2026 | https://stitch.withgoogle.com/ |
+| 2 - 3 | - AI UI Design: Use Generative AI (Stitch) to build layouts | 15/06/2026 | 16/06/2026 | https://stitch.withgoogle.com/ |
 | 4 - 5 | - Optimize UI Code: Refactor AI-generated code and divide it into reusable components | 17/06/2026 | 18/06/2026 | - |
 | 6 - Sun | - Codebase Integration: Integrate components into the main codebase, configure routes and responsiveness | 19/06/2026 | 21/06/2026 | - |
 
 ### Week 9 Achievements:
 * Created clean and modern UI layout mockups using Generative AI tools.
-* Successfully refactored and cleaned AI-generated template code.
 * Divided the interface layout into reusable and modularized code components.
-* Successfully integrated the custom layouts into the main project directory.
+* Successfully integrated the custom layouts into the project framework.
 * Set up functional router routing paths between different pages.
-* Verified correct responsive displays across mobile, tablet, and desktop viewports.

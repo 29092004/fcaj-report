@@ -19,9 +19,5 @@ pre: " <b> 1.5. </b> "
 
 ### Kết quả đạt được tuần 5:
 * Hiểu tổng quan về kiến trúc Serverless và cơ chế hoạt động của Lambda.
-* Viết thành công hàm Lambda tự động resize/tối ưu kích thước ảnh khi upload lên S3.
 * Khởi tạo bảng DynamoDB thành công và thiết kế cấu trúc dữ liệu NoSQL cơ bản.
-* Tích hợp thành công SDK trong Lambda để lưu metadata ảnh vào DynamoDB.
 * Áp dụng bảo mật phân quyền IAM Role tối thiểu (Least Privilege) cho Lambda function.
-* Vận hành thử nghiệm thành công toàn bộ luồng Event-driven (S3 trigger Lambda -> ghi DB).
-* Hiểu cách dọn dẹp tài nguyên để tối ưu hóa chi phí AWS.

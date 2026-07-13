@@ -26,4 +26,3 @@ pre: " <b> 1.1. </b> "
 * Cài đặt và cấu hình thành công AWS CLI trên máy cá nhân.
 * Kiểm tra thành công các thông tin account, region và EC2 qua CLI.
 * Tạo thành công Key Pair phục vụ cho việc quản lý EC2.
-* Hoàn thành ôn tập và nắm vững việc sử dụng Console và CLI.

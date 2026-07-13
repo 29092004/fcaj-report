@@ -22,4 +22,3 @@ pre: " <b> 1.6. </b> "
 * Created REST API endpoints in API Gateway with CORS configurations enabled.
 * Developed testing proficiency in Postman, debugging CORS and integration errors.
 * Successfully bound static Frontend pages with Backend API Gateway endpoints.
-* Completed a working, data-driven Full-stack Serverless application.

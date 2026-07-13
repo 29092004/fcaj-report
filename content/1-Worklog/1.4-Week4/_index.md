@@ -12,17 +12,15 @@ pre: " <b> 1.4. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 | - VPC Overview: Study VPC structures, CIDR Blocks, IPv4/IPv6 | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 2 | - VPC Overview: Study VPC structures, IPv4/IPv6 | 11/05/2026 | 11/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 3 | - Subnet: Allocate and configure Public and Private Subnets | 12/05/2026 | 12/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 4 | - Route Table: Set up routing tables and subnet associations | 13/05/2026 | 13/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 5 | - Internet Gateway: Attach Internet Gateway to VPC and verify external routing | 14/05/2026 | 14/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6-7-Sun | - Site-to-Site VPN: Study theories of Hybrid connectivity and Customer Gateway | 15/05/2026 | 17/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 4 Achievements:
-* Mastered VPC network architecture and subnet CIDR calculations.
+* Mastered VPC network architecture.
 * Effectively divided the network into Public and Private subnets for enhanced security.
 * Successfully routed traffic using custom Route Tables and Internet Gateways.
 * Enabled internet access for resources within the Public Subnet.
-* Clearly distinguished between Security Groups (stateful) and NACLs (stateless) in application setups.
 * Understood Hybrid connection architectures via Site-to-Site VPN models.
-* Gained a solid understanding of how to configure and verify isolated networks in VPC.

@@ -18,9 +18,5 @@ pre: " <b> 1.3. </b> "
 
 ### Kết quả đạt được tuần 3:
 * Hiểu rõ khái niệm IAM Role, Assume Role và sự khác biệt với IAM User thông thường.
-* Nhận thức rõ tại sao nên sử dụng IAM Role thay thế cho Access Key truyền thống.
 * Cấu hình thành công EC2 instance truy cập S3 một cách an toàn thông qua IAM Role.
-* Kiểm tra và chạy thành công lệnh AWS CLI mà không cần cấu hình Access Key trực tiếp.
 * Áp dụng nguyên tắc Least Privilege (quyền tối thiểu) vào thiết kế hệ thống phân quyền AWS.
-* Thành thạo quy trình tạo, chỉnh sửa và gán IAM Role cho các tài nguyên AWS.
-* Nắm vững các Best Practice về bảo mật tài khoản AWS.

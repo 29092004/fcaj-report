@@ -18,9 +18,5 @@ pre: " <b> 1.3. </b> "
 
 ### Week 3 Achievements:
 * Gained a clear understanding of IAM Roles, Assume Role mechanisms, and differences from IAM Users.
-* Recognized the security benefits of using IAM Roles over hardcoded Access Keys.
 * Successfully configured an EC2 instance to access AWS S3 securely using an attached IAM Role.
-* Verified S3 access using AWS CLI on EC2 without configuring access credentials directly.
 * Applied the Least Privilege principle to design secure IAM policies.
-* Mastered the creation, modification, and attachment workflows for IAM Roles.
-* Understood best practices for managing AWS identity security.
