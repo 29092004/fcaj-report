@@ -13,15 +13,14 @@ pre: " <b> 1.11. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - Complete UI/UX: Refine layout, typography, navigation, and responsiveness of the Next.js frontend, ensuring clean visual presentation. | 29/06/2026 | 30/06/2026 |  |
+| 2 - 3 | - Complete UI/UX: Refine layout, navigation, and remove redundant details. | 29/06/2026 | 30/06/2026 |  |
 | 4 - 5 | - Optimize Job Search: Implement robust recursive search queries on DynamoDB, update frontend search logic, and clean up unnecessary salary components. | 01/07/2026 | 02/07/2026 |  |
 | 6 | - Write Internship Report: Draft the final internship report documenting the project architecture, AWS services utilized, and lessons learned. | 03/07/2026 | 03/07/2026 |  |
-| 7 - Sun | - Compile Progress & Summary: Collate weekly progress sheets, summarize contributions, and finalize the work evaluation report for the internship host unit. | 04/07/2026 | 05/07/2026 |  |
+| 7 - Sun | - Compile Progress & Summary: Complete weekly progress sheets and compile the final summary report for the host internship organization. | 04/07/2026 | 05/07/2026 |  |
 
 ### Week 11 Achievements:
 * Finalized all UI/UX components for the Jobs-Matching-Platform, ensuring consistency.
 * Successfully refactored the Job Search API, moving from limited database scanning to a comprehensive, recursive search implementation.
-* Cleaned up the search results interface by removing redundant salary components for a cleaner layout.
-* Drafted the final professional Internship Report containing architectural details, AWS resource configuration, and personal development outcomes.
+* Drafted the final Internship Report containing architectural details, AWS resource configuration, and personal development outcomes.
 * Compiled all weekly internship progress tracking sheets.
 * Completed and finalized the comprehensive summary work report for submission to AWS Vietnam.
