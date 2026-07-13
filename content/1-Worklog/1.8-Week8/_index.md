@@ -15,7 +15,7 @@ pre: " <b> 1.8. </b> "
 | 2 - 3 | - Integration Architecture: Study communication between Frontend (S3) and Backend (API Gateway) | 08/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/>|
 | 4 - 5 | - Configure API Calls: Set up environment variables and write API fetching code on Frontend | 10/06/2026 | 11/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6 - 7 | - Deploy to S3: Build Frontend assets and configure S3 Static Website Hosting with CloudFront | 12/06/2026 | 13/06/2026 |<https://cloudjourney.awsstudygroup.com/>|
-| Sun | - End-to-End Test: Deploy all components to AWS Cloud and run live functional tests | 14/06/2026 | 14/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+
 
 ### Week 8 Achievements:
 * Gained a clear understanding of decoupled Front-to-Back serverless architectures.

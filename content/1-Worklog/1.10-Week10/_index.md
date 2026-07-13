@@ -15,7 +15,7 @@ pre: " <b> 1.10. </b> "
 | 2 - 3 | - Render DB Data: Call API to dynamically display the Job listing from DynamoDB on UI | 22/06/2026 | 23/06/2026 | API Endpoint |
 | 4 - 5 | - Build Detail Page: Design UI and parse URL parameter IDs to filter Job details | 24/06/2026 | 25/06/2026 | Figma / UI Design |
 | 6 - 7 | - Deploy Lambda API: Write and deploy Lambda function fetching Job details by ID | 26/06/2026 | 27/06/2026 | AWS Console / SAM |
-| Sun | - Full Integration Test: Verify end-to-end flow from listing click -> Lambda -> DynamoDB -> detail render | 28/06/2026 | 28/06/2026 | Test Scenarios |
+
 
 ### Week 10 Achievements:
 * Successfully retrieved live database records from DynamoDB and rendered them dynamically on the UI list.

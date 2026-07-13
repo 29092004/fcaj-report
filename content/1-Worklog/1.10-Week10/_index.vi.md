@@ -1,4 +1,4 @@
----
+﻿---
 title: "Worklog Tuần 10"
 date: 2026-06-22
 weight: 10
@@ -15,7 +15,7 @@ pre: " <b> 1.10. </b> "
 | 2 - 3 | - Đổ dữ liệu lên UI: Gọi API để hiển thị danh sách Job động từ DynamoDB lên giao diện | 22/06/2026 | 23/06/2026 | AWS Console |
 | 4 - 5 | - Xây dựng trang chi tiết: Thiết kế giao diện và xử lý logic lọc Job theo ID trên URL | 24/06/2026 | 25/06/2026 | Figma / UI Design |
 | 6 - 7 | - Deploy Lambda API: Viết và deploy Lambda function hỗ trợ lấy thông tin chi tiết Job theo ID | 26/06/2026 | 27/06/2026 | AWS Console / SAM |
-| CN | - Kiểm thử toàn diện: Chạy thử luồng người dùng click chọn Job -> gọi Lambda -> lấy DB -> hiển thị | 28/06/2026 | 28/06/2026 | AWS Console |
+
 
 ### Kết quả đạt được tuần 10:
 * Đổ dữ liệu thành công từ DynamoDB để hiển thị động danh sách Job trên giao diện người dùng.

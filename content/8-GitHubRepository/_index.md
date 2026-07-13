@@ -12,5 +12,5 @@ Below are the links to the source code and the deployed version of the project:
 * **Description:** This repository contains the complete source code of the Jobs Matching Platform
 
 ### 2. Deployed Website (Live Application)
-* **Link:** [https://develop.d11bs7h108pe40.amplifyapp.com/](https://develop.d11bs7h108pe40.amplifyapp.com/)
+* **Link:** [https://main.d11bs7h108pe40.amplifyapp.com/](https://main.d11bs7h108pe40.amplifyapp.com/)
 * **Description:** The live application deployed on AWS Amplify, connected to the backend DynamoDB via API Gateway and Lambda functions.
