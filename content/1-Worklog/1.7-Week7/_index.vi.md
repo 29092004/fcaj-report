@@ -22,5 +22,4 @@ pre: " <b> 1.7. </b> "
 * Triển khai thành công ứng dụng Serverless mẫu (Hello World) lên AWS thông qua SAM template.
 * Đề xuất thành công 3 ý tưởng dự án thực tế áp dụng kiến trúc Serverless.
 * Thống nhất chọn lựa đề tài dự án chính thức và phân chia vai trò cụ thể cho các thành viên.
-* Vẽ hoàn chỉnh sơ đồ kiến trúc hệ thống (S3, API Gateway, Lambda, DynamoDB).
 * Hoàn thiện và nộp báo cáo đề xuất đề tài dự án đúng thời hạn được duyệt.

@@ -12,7 +12,7 @@ pre: " <b> 1.9. </b> "
 ### Các công việc cần triển khai trong tuần này:
 | Thứ | Công việc | Ngày bắt đầu | Ngày hoàn thành | Nguồn tài liệu |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - Thiết kế UI bằng AI: Dùng Generative AI (v0.dev, Claude) để tạo nhanh cấu trúc layout và mockup | 15/06/2026 | 16/06/2026 | - |
+| 2 - 3 | - Thiết kế UI bằng AI: Dùng Generative AI (Stitch) để tạo nhanh cấu trúc layout và mockup | 15/06/2026 | 16/06/2026 | https://stitch.withgoogle.com/|
 | 4 - 5 | - Tối ưu mã nguồn UI: Làm sạch code sinh ra từ AI, chia nhỏ thành các React/HTML Component | 17/06/2026 | 18/06/2026 | - |
 | 6 - CN | - Tích hợp Codebase: Đưa Component vào mã nguồn chính, cấu hình Router và Responsive | 19/06/2026 | 21/06/2026 | - |
 

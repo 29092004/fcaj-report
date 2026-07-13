@@ -12,7 +12,7 @@ pre: " <b> 1.9. </b> "
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - AI UI Design: Use Generative AI (v0.dev, Claude) to build layouts and UI mockups | 15/06/2026 | 16/06/2026 | - |
+| 2 - 3 | - AI UI Design: Use Generative AI (Stitch) to build layouts and UI mockups | 15/06/2026 | 16/06/2026 | https://stitch.withgoogle.com/ |
 | 4 - 5 | - Optimize UI Code: Refactor AI-generated code and divide it into reusable components | 17/06/2026 | 18/06/2026 | - |
 | 6 - Sun | - Codebase Integration: Integrate components into the main codebase, configure routes and responsiveness | 19/06/2026 | 21/06/2026 | - |
 

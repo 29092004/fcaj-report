@@ -6,21 +6,19 @@ chapter: false
 pre: " <b> 1.8. </b> "
 ---
 ### Week 8 Objectives:
-* Build the data integration flow between Frontend and Backend Serverless components.
-* Deploy static Frontend hosting on AWS S3 and run end-to-end integration verification tests.
+* Learn how to deploy applications to AWS Lambda.
+* Test deploying the template and configuring the Lambda function connected to DynamoDB.
+* Write Lambda function code to fetch job information from DynamoDB.
 
 ### Tasks to be carried out this week:
 | Day | Task | Start Date | Completion Date | Reference Material |
 | --- | --- | --- | --- | --- |
-| 2 - 3 | - Integration Architecture: Study communication between Frontend (S3) and Backend (API Gateway) | 08/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/>|
-| 4 - 5 | - Configure API Calls: Set up environment variables and write API fetching code on Frontend | 10/06/2026 | 11/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
-| 6 - 7 | - Deploy to S3: Build Frontend assets and configure S3 Static Website Hosting with CloudFront | 12/06/2026 | 13/06/2026 |<https://cloudjourney.awsstudygroup.com/>|
-
+| 2 - 3 | - Study the deployment template for AWS Lambda and the communication mechanism between Lambda and DynamoDB. | 08/06/2026 | 09/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 4 - 5 | - Test packaging code assets and deploy the template onto AWS Lambda. | 10/06/2026 | 11/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
+| 6 - 7 | - Write the Lambda function logic to query Job data from DynamoDB and verify the returned results. | 12/06/2026 | 13/06/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
 ### Week 8 Achievements:
-* Gained a clear understanding of decoupled Front-to-Back serverless architectures.
-* Successfully configured and verified local Frontend integrations calling live API Gateway routes.
-* Built Frontend production assets and uploaded them successfully to AWS S3.
-* Configured S3 Static Website Hosting permissions and CloudFront distributions correctly.
-* Successfully deployed and verified full-stack operations live on AWS.
-* Debugged and resolved minor integration defects relating to CORS settings.
+* Mastered code packaging and deployment to AWS Lambda using templates.
+* Successfully deployed and tested the Lambda function template on the AWS environment.
+* Built a functional Lambda function to fetch job data from a DynamoDB table.
+* Successfully verified the Lambda function's execution and correct response output.
