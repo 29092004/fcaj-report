@@ -16,7 +16,6 @@ pre: " <b> 1.3. </b> "
 | 5-6 | - IAM Role trên EC2: Tạo và gán IAM Role cho EC2 để cấp quyền truy cập S3 | 07/05/2026 | 08/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 7-CN | - Best Practice: Nghiên cứu nguyên tắc Least Privilege trong thiết kế IAM Role | 09/05/2026 | 10/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
-
 ### Kết quả đạt được tuần 3:
 * Hiểu rõ khái niệm IAM Role, Assume Role và sự khác biệt với IAM User thông thường.
 * Nhận thức rõ tại sao nên sử dụng IAM Role thay thế cho Access Key truyền thống.

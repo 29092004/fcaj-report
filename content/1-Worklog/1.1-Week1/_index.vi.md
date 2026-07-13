@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Worklog Tuần 1"
 date: 2026-04-20
 weight: 1
@@ -18,7 +18,6 @@ pre: " <b> 1.1. </b> "
 | 5 | - AWS CLI: Cài đặt và cấu hình AWS CLI | 23/04/2026 | 23/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6 | - AWS CLI Practice: Dùng CLI kiểm tra account, region, EC2 | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 7 | - Key Pair: Tạo và quản lý key pair | 25/04/2026 | 25/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-
 
 ### Kết quả đạt được tuần 1:
 * Hiểu cơ bản về AWS và các nhóm dịch vụ chính (Compute, Storage, Networking, Database).

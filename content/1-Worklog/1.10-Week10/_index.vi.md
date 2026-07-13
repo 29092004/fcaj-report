@@ -16,7 +16,6 @@ pre: " <b> 1.10. </b> "
 | 4 - 5 | - Xây dựng trang chi tiết: Thiết kế giao diện và xử lý logic lọc Job theo ID trên URL | 24/06/2026 | 25/06/2026 |  |
 | 6 - 7 | - Deploy Lambda API: Viết và deploy Lambda function hỗ trợ lấy thông tin chi tiết Job theo ID | 26/06/2026 | 27/06/2026 |  |
 
-
 ### Kết quả đạt được tuần 10:
 * Đổ dữ liệu thành công từ DynamoDB để hiển thị động danh sách Job trên giao diện người dùng.
 * Hoàn thiện thiết kế và luồng xử lý nhận diện ID của trang chi tiết Job.

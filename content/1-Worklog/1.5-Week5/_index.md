@@ -17,7 +17,6 @@ pre: " <b> 1.5. </b> "
 | 6 | - IAM Role for Lambda: Grant Least Privilege S3/DynamoDB access permissions to Lambda | 22/05/2026 | 22/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 7-Sun | - Serverless Lab: Practice testing the full image pipeline and clean up AWS resources | 23/05/2026 | 24/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
-
 ### Week 5 Achievements:
 * Gained a solid understanding of Serverless and AWS Lambda trigger mechanisms.
 * Developed a Lambda function to automatically resize/compress images uploaded to S3.

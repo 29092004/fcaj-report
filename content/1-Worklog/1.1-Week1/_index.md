@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Week 1 Worklog"
 date: 2026-04-20
 weight: 1
@@ -18,7 +18,6 @@ pre: " <b> 1.1. </b> "
 | 5 | - AWS CLI: Install and configure AWS CLI | 23/04/2026 | 23/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 6 | - AWS CLI Practice: Use CLI to check account, region, EC2 status | 24/04/2026 | 24/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 7 | - Key Pair: Create and manage key pair | 25/04/2026 | 25/04/2026 | <https://cloudjourney.awsstudygroup.com/> |
-
 
 ### Week 1 Achievements:
 * Gained a basic understanding of AWS and its core service groups (Compute, Storage, Networking, Database).

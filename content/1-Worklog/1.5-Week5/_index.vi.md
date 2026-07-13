@@ -17,7 +17,6 @@ pre: " <b> 1.5. </b> "
 | 6 | - Cấu hình IAM Role: Cấp quyền truy cập tối thiểu (Least Privilege) cho Lambda vào S3/DynamoDB | 22/05/2026 | 22/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 | 7-CN | - Serverless Lab: Thực hành chạy toàn bộ luồng xử lý ảnh và dọn dẹp tài nguyên | 23/05/2026 | 24/05/2026 | <https://cloudjourney.awsstudygroup.com/> |
 
-
 ### Kết quả đạt được tuần 5:
 * Hiểu tổng quan về kiến trúc Serverless và cơ chế hoạt động của Lambda.
 * Viết thành công hàm Lambda tự động resize/tối ưu kích thước ảnh khi upload lên S3.
